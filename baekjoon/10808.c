@@ -14,4 +14,5 @@ int main() {
     for (int j = 0; j < 26; j++) {
         printf("%d ", result[j]);
     }
+    
 }
